@@ -1,2 +1,4 @@
-# PC-Build
-Latest Info about PC and Tech.
+# PC-Build.
+Divesh Kunchikorve.
+Kartik Bhagde.
+Pranav Hindalekar.
